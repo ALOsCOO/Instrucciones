@@ -56,6 +56,8 @@ Instalación de los programas necesarios para aprender y codificar html con herr
       (recomeindo instalar lo que venga marcado, el opcional que está como NEW que marca el en el video no hace falta)
       (en la parte del editor que viene por defecto el Vim, puedes usar Vim o sino el Notepadd++)
       
+      - Para el ```git config --global user.email``` y ```git config --global user.name``` sigue el video: https://www.youtube.com/watch?v=bZWeidxYAw4
+      
     URL de descargas de git: https://git-scm.com/downloads
     (Recomendado los Standalone Installer y la versión mantenida (2.39.0) 64-bit). Verificar que tu ordenador sea x64 o x32.
     Para verificar si es x32 o x64 puedes hacerlo llendo a Las carpetas,  este equipo, la unidad C -> la ruta de directorio ```C:\```
